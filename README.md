@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 
 ### 😂 Dev Meme
 <img src="https://cloud.egbontech.com/uploads/posts/1715113475.images__5_.jpeg" width="300px" />
+
+<p align="start"><h2 align="start">💰 Buy Me A Coffee.</h2></p>
+<p align="start">
+<a href="https://shop.bkash.com/durjoysoft01575555722/paymentlink"> <img align="center" src="https://github.com/durjoyd390/Currency-Rate-Converter-Java/assets/73610695/544e17d2-759f-4894-998c-2267a5fb0eb3" height="50" width="210" /></a>
+</p>
