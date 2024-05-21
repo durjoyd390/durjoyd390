@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on A Ecommerce Web Application
+- 🔭 I’m currently working on An Ecommerce Web Application
 - 🌱 I’m currently learning JAVA 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: PHP is Dead!
