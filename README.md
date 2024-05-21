@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Dorjoy Das
 
-#### A passionate developer from Bangladesh
+#### A passionate developer from Bangladesh <br>Web Application Developer & Founder at <a href="https://www.durjoysoft.com" target="_blank">Durjoysoft</a> 
 
 Here are some ideas to get you started:
 
