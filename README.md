@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <p align="start"><h2 align="start">💰 Buy Me A Coffee.</h2></p>
 <p align="start">
-<a href="https://shop.bkash.com/durjoysoft01575555722/paymentlink"> <img align="center" src="https://github.com/durjoyd390/Currency-Rate-Converter-Java/assets/73610695/544e17d2-759f-4894-998c-2267a5fb0eb3" height="80" width="480" /></a>
+<a href="https://shop.bkash.com/durjoysoft01575555722/paymentlink"> <img align="center" src="https://github.com/durjoyd390/Currency-Rate-Converter-Java/assets/73610695/544e17d2-759f-4894-998c-2267a5fb0eb3" height="80" width="465" /></a>
 </p>
