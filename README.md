@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=durjoyd390&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Dev Meme
-<img src="https://cloud.egbontech.com/uploads/posts/1715113475.images__5_.jpeg" style="height: 400px;"/>
+<img src="https://cloud.egbontech.com/uploads/posts/1715113475.images__5_.jpeg" width="300px" />
