@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=durjoyd390&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=durjoyd390&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=durjoyd390&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
