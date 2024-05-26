@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <h3 align="start">Connect with me:</h3>
 <p align="start">
 <a href="https://www.linkedin.com/in/durjoyd390/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+8801999737584"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" height="25" style="margin-top: 5px;" /></a>
+<a href="https://wa.me/+8801999737584"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" height="25" /></a>
 <a href="https://www.facebook.com/durjoyd390" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
 <a href="https://youtube.com/@durjoysoft" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
 </p>
