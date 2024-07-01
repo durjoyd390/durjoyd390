@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=durjoyd390&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;
-![](https://raw.githubusercontent.com/durjoyd390/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/durjoyd390/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ### 😂 Dev Meme
 <img src="https://cloud.egbontech.com/uploads/posts/1715113475.images__5_.jpeg" width="300px" />
