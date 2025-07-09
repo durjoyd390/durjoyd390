@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=durjoyd390&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Dev Meme
-![is-php-dead-language](https://github.com/user-attachments/assets/f50a7cb3-45d3-4399-90d6-72c1852d4b62)
-<img src="https://cloud.egbontech.com/uploads/posts/1715113475.images__5_.jpeg" width="300px" />
+<img src="[https://cloud.egbontech.com/uploads/posts/1715113475.images__5_.jpeg](https://github.com/user-attachments/assets/f50a7cb3-45d3-4399-90d6-72c1852d4b62)" width="300px" />
 
 <p align="start"><h2 align="start">💰 Buy Me A Coffee</h2></p>
 <p align="start">
