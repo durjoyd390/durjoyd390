@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Dorjoy Das
 
-#### A passionate developer from Bangladesh <br>Web Application Developer & Founder at <a href="https://www.durjoysoft.com" target="_blank">Durjoysoft</a> 
+#### A passionate software engineer from Bangladesh <br>Web Application Developer & Founder at <a href="https://www.durjoysoft.com" target="_blank">Durjoysoft</a> 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on An Ecommerce Web Application
+- 🔭 I’m currently working on an e-commerce web Application
 - 🌱 I’m currently learning JAVA 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: PHP is Dead!
